@@ -1,0 +1,11 @@
+.menu-btn {
+    height: 5rem;
+    width: 5rem;
+    line-height: 5rem;
+    font-size: 2rem;
+    background: var(--light-bg);
+    color: var(--black);
+    cursor: pointer;
+    text-align: center;
+    margin-left: .3rem;
+}
